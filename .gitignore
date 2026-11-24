@@ -1,0 +1,9 @@
+# QuickFIX runtime artefacts
+store-acceptor/
+store-initiator/
+log-acceptor/
+log-initiator/
+*.log
+venv/
+__pycache__/
+*.pyc
